@@ -1,0 +1,6 @@
+{
+  "name": "MIXY",
+  "description": "MIXY — Connect, Share, Vibe. Real-time social media platform with Feed, Stories, Reels, Direct Messages, and Profiles.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

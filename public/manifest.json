@@ -1,0 +1,19 @@
+{
+  "name": "MIXY — Social Media & Reels",
+  "short_name": "MIXY",
+  "description": "Share posts, vertical Reels, 24-hour Stories & Moments, real-time DMs, audio/video calls, and chat with Julius AI.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#07070D",
+  "theme_color": "#07070D",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
